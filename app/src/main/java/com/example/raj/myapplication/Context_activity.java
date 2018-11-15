@@ -39,7 +39,7 @@ public class Context_activity extends AppCompatActivity {
                 startActivityForResult(i, 0);
 
             case R.id.remove:
-                img.setImageBitmap(null);
+                img.setImageResource(R.mipmap.ic_launcher);
         }
 
         return true;
