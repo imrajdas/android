@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Main2Activity" />
         <activity android:name=".signUpActivity" />
-        <activity android:name=".imageActivity"></activity>
+        <activity android:name=".imageActivity" />
+        <activity android:name=".Context_activity"></activity>
     </application>
 
 </manifest>

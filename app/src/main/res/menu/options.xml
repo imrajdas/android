@@ -5,4 +5,7 @@
     <item android:id="@+id/image"
           android:title="Image"
           />
+
+    <item android:id="@+id/context_menu"
+          android:title="Context Menu"/>
 </menu>

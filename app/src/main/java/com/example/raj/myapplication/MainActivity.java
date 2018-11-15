@@ -48,6 +48,11 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(in1);
                     break;
 
+            case R.id.context_menu:
+                    Intent in2 = new Intent(this, Context_activity.class);
+                    startActivity(in2);
+                    break;
+
         }
         return true;
     }
